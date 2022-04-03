@@ -18,6 +18,8 @@
  <img align="center" alt="Spring-Icon" height="50" width="50" src="https://1.bp.blogspot.com/-trIS3Iz94SE/YIr3iwBC23I/AAAAAAAAtVQ/oieBThHJU3wPJkGOATDSvi6RySwlowM5ACLcBGAsYHQ/s452/spring-logo.png"/>
 <img align="center" alt="github" height="50" width="50" src="https://cdn.discordapp.com/attachments/952556720419401791/959219056571985990/pngegg.png" />
 <img align="center" alt="angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+ <img align="center" alt="mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+          
           
           
   
