@@ -15,7 +15,7 @@
  <img align="center" alt="Bea-HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
  <img align="center" alt="Bea-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
  <img align="center" height="60" width="50" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"/>
- <img align="center" alt="Postman" height="60" width="50"  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+ <img align="center" height="60" width="50"  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
  <img align="center" alt="Spring-Icon" height="60" width="50" src="https://1.bp.blogspot.com/-trIS3Iz94SE/YIr3iwBC23I/AAAAAAAAtVQ/oieBThHJU3wPJkGOATDSvi6RySwlowM5ACLcBGAsYHQ/s452/spring-logo.png"/>
 <img align="center" alt="github" height="60" width="50" src="https://cdn.discordapp.com/attachments/952556720419401791/959219056571985990/pngegg.png" />
   
