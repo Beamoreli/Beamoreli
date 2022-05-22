@@ -1,6 +1,7 @@
 
 * 🎓 Cursando Análise e Desenvolvimento de Sistemas 
 * ☕ Estudando Java 
+* ☕ Estudando Angular 
 * 💻 Bootcamp Generation 
 * 👩🏻 Pronomes: Ela/Dela
 
