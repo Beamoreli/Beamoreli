@@ -45,3 +45,9 @@
   <a href="https://www.linkedin.com/in/beamoreli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   
+  
+  
+  
+  <img href="https://github.com/beamoreli/beamoreli/blob/output/snake.svg" alt="Snake animation" />
+
+###
