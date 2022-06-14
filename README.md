@@ -47,7 +47,4 @@
   
   
   
-  
-  <img href="https://github.com/beamoreli/beamoreli/blob/output/snake.svg" alt="Snake animation" />
-
-###
+ 
