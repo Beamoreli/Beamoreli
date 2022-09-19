@@ -1,7 +1,7 @@
 
 * 🎓 Cursando Análise e Desenvolvimento de Sistemas 
-* ☕ Estudando Java 
-* ☕ Estudando Angular 
+* ☕ Estudando NodeJs
+* ☕ Estudando React
 * 👩🏻 Pronomes: Ela/Dela
 
 ##
