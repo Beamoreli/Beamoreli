@@ -1,8 +1,8 @@
 
 * 🎓 Cursando Análise e Desenvolvimento de Sistemas 
 * 🎓 Cursando Arquiteturas e Infraestruturas em Nuvem
-* ☕ Estudando NodeJs
-* ☕ Estudando React
+* ☕ Praticando NodeJs
+* ☕ Praticando React
 * 👩🏻 Pronomes: Ela/Dela
 
 * Saiba mais sobre mim: https://www.youtube.com/watch?v=7SQYSqEkm-A
