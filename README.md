@@ -1,5 +1,6 @@
 
 * 🎓 Cursando Análise e Desenvolvimento de Sistemas 
+* 🎓 Cursando Arquiteturas e Infraestruturas em Nuvem
 * ☕ Estudando NodeJs
 * ☕ Estudando React
 * 👩🏻 Pronomes: Ela/Dela
