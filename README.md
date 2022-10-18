@@ -41,7 +41,7 @@
    
 <img align="center" alt="NodeJs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="center" alt="Bea-Java" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img aalign="center" alt="github" height="50" width="50" src="https://cdn.discordapp.com/attachments/952556720419401791/959219056571985990/pngegg.png" />
+<img align="center" alt="github" height="50" width="50" src="https://cdn.discordapp.com/attachments/952556720419401791/959219056571985990/pngegg.png" />
 
 
  
