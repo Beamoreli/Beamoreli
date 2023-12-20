@@ -1,8 +1,7 @@
 
-* 🎓 Análise e Desenvolvimento de Sistemas 
+* 🎓 Análise e Desenvolvimento de Sistemas ✔️
 * 🎓 Cursando Arquiteturas e Infraestruturas em Nuvem
-* ☕ Praticando NodeJs
-* ☕ Praticando React
+
 
 
 
