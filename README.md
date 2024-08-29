@@ -1,10 +1,4 @@
 
-* 🎓 Análise e Desenvolvimento de Sistemas ✔️
-* 🎓 Cursando Arquiteturas e Infraestruturas em Nuvem
-
-
-
-
 ##
 <div align="center">
   <a href="https://github.com/beamoreli">
